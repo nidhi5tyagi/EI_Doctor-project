@@ -17,7 +17,7 @@ This project is designed to monitor the system's health, providing real-time fee
    - Sends the report via email to designated recipients.
 
 3. **Interactive Dashboard**:
-   - Displays the system's health metrics in an interactive terminal interface using tools like `curses` or `dialog`.
+   - Displays the system's health metrics in an interactive terminal interface using tools like `dialog`.
 
 ---
 
