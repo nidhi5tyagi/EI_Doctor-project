@@ -55,7 +55,6 @@ This project is designed to monitor the system's health, providing real-time fee
 ### 4. **Interactive Dashboard**
 - Displays real-time metrics in a terminal interface using tools like:
   - `dialog` for menus and simple displays.
-  - `curses` for a richer TUI (Terminal User Interface).
 
 ---
 
