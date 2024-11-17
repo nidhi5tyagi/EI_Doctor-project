@@ -1,6 +1,5 @@
 # EI_Doctor-project
-
-Here’s a Markdown document describing the project requirements, functionality, and implementation details:
+The project requirements, functionality, and implementation details:
 
 ---
 
